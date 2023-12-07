@@ -1,6 +1,6 @@
 # Globetrotter
 <p align="center">
-<img src=""> 
+<img src="https://github.com/Ananya-Jha1208/Globetrotter/blob/master/public/globetrotter.png"> 
 </p>  
 <h2 align="center">
 Your passport to boundless exploration, effortlessly connecting travelers to a world of captivating experiences and personalized trip inspirations!

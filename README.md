@@ -1,4 +1,4 @@
-# Globetrotter
+# globetrotter
 <p align="center">
 <img src="https://github.com/Ananya-Jha1208/Globetrotter/blob/master/public/globetrotter.png"> 
 </p>  
@@ -12,7 +12,7 @@ Your passport to boundless exploration, effortlessly connecting travelers to a w
 ## ✈️ Description
 
 
-Welcome to **Globetrotter**! This travel-inspired platform invites users to embark on an organized expedition through a world of seamless travel experiences and curated trip planning.
+Welcome to **globetrotter**! This travel-inspired platform invites users to embark on an organized expedition through a world of seamless travel experiences and curated trip planning.
 
 A journey where you can explore the fusion of adventure and meticulous planning in your travel escapades. Our app enables you to curate and share your wanderlust moments effortlessly, blending structured itineraries with spontaneous discoveries, ensuring each experience is captured and celebrated. Whether you're a meticulous planner or thrive on impromptu adventures, we invite all to revel in the joy and ease that Globetrotter brings to travel documentation. Join us in embracing the seamless travel storytelling our app facilitates.
 

@@ -24,7 +24,7 @@ function Header(props) {
     <nav className="nav">
       <Link to="/">
         <div className="logo-wrapper">
-          <img src="TravelXPLog.jpg" alt="travel exp.log" />
+          <img src="globetrotter.png" alt="globetrotter" />
         </div>
       </Link>
       {user ? (

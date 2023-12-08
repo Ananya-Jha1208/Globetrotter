@@ -33,7 +33,7 @@ function Comment({ comments, createComment, postId, user }) {
       {user && (
         <form className="comment-form">
           <label>
-            MAKE A COMMENT HERE:
+            ADD A COMMENT HERE:
             <br />
             <input
               type="text"
